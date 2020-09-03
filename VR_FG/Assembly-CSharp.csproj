@@ -70,9 +70,11 @@
      <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
      <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
      <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
+     <Compile Include="Assets\Script\GameManager.cs" />
      <Compile Include="Assets\Script\Launcher.cs" />
      <Compile Include="Assets\Script\MainPage.cs" />
      <Compile Include="Assets\Script\PlayerNameInputField.cs" />
+     <Compile Include="Assets\Script\RoomPage.cs" />
      <Compile Include="Assets\Script\Util\Singleton.cs" />
      <Compile Include="Assets\Script\test.cs" />
      <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.xml" />

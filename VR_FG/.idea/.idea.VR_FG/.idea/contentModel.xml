@@ -366,9 +366,11 @@
           </e>
         </e>
         <e p="Script" t="Include">
+          <e p="GameManager.cs" t="Include" />
           <e p="Launcher.cs" t="Include" />
           <e p="MainPage.cs" t="Include" />
           <e p="PlayerNameInputField.cs" t="Include" />
+          <e p="RoomPage.cs" t="Include" />
           <e p="test.cs" t="Include" />
           <e p="Util" t="Include">
             <e p="Singleton.cs" t="Include" />
